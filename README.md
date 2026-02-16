@@ -47,6 +47,20 @@ The application provides:
 - Fast LLM responses using Groq LLaMA 3.1  
 - Clean and interactive Streamlit interface  
 ---
+## 📸 Application Preview
+
+<p align="center">
+  <img src="assets/home.png" width="32%">
+  <img src="assets/pdf_upload.png" width="32%">
+  <img src="assets/result.png" width="32%">
+</p>
+
+<p align="center">
+Home Screen • PDF Upload • AI Analysis Result
+</p>
+
+---
+
 🛠️ Tech Stack
 
 - **Python**

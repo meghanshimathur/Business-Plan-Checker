@@ -8,7 +8,7 @@ Built with **Streamlit** and powered by the **Groq API (LLaMA 3.1)** for fast, f
 
 🚀 **Access the deployed application here:**  
 👉 [https://your-streamlit-app-link.streamlit.app](https://business-plan-checker-vuxxyztsw3gcve2eqcxton.streamlit.app/)
-
+https://business-plan-checker-vuxxyztsw3gcve2eqcxton.streamlit.app/
 
 🚀 Live Features
 

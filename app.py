@@ -89,7 +89,7 @@ Provide a structured, clear final answer.
     return response.choices[0].message.content
 
 #--------------------------------------------------------------
-st.title("Plan Business Checker")
+st.title("Business Plan Checker")
 st.write("Upload a pdf and ask related question.")
 
 uploaded_file = st.file_uploader("Upload PDF", type=["pdf"])
